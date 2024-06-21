@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: 'Brush Script MT', cursive;
+}
+
+#output {
+    font-size: 36px;
+    color: #333;
+}
